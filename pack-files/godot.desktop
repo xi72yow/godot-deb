@@ -1,0 +1,13 @@
+
+
+[Desktop Entry]
+Type=Application
+Name=Godot
+GenericName=Godot
+X-GNOME-FullName=Godot
+Icon=/usr/share/pixmaps/Godot_icon.svg
+Categories=Development;
+Keywords="Godot;Engine;Game;"
+Terminal=false
+StartupNotify=true
+Exec=/usr/bin/Godot_v3.5-stable_x11.64
